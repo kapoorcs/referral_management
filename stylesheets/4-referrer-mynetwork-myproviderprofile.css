@@ -1,0 +1,166 @@
+ body {
+   padding-left: 0;
+   padding-right: 0;
+ }
+ .container-fluid {
+   padding: 30px 20px 0px 20px;
+ }
+ .container-fluid .row-fluid.row-fluid-1 {
+   margin: 0px 0px 20px 0px;
+ }
+ .container-fluid .row-fluid-1 .span8 .well {
+   border-radius: 0px;
+   background: transparent;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   margin: 0px;
+   padding: 0px;
+   border: none;
+ }
+ .container-fluid .row-fluid-1 .span8 .well p {
+   font-size: 12px;
+   font-style: italic;
+   color: #777777;
+   font-family:"helvetica";
+   margin: 5px 0px 10px 0px;
+ }
+ .container-fluid .row-fluid-1 .span4 .well {
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   padding: 0px;
+   border-radius: 0px;
+   background: transparent;
+   margin: 0px;
+   border: none;
+ }
+ .container-fluid .row-fluid-1 .span4 .well .row-fluid .span10 p {
+   font-weight: bold;
+   font-size: 13px;
+ }
+ .container-fluid .row-fluid-1 .span4 .well .row-fluid .span2 .icon.icon-question-sign {
+   font-size: 16px;
+   color: #bfc9ca;
+   height: 16px;
+   width: 16px;
+ }
+ .container-fluid .row-fluid-1 .span4 .navbar {
+   height: 42px;
+ }
+ .container-fluid .row-fluid-1 .span4 .navbar .navbar-inner {
+   background: #34495e;
+   padding: 0px 15px 0px 15px;
+   border: none;
+   height: 42px;
+   padding-left: 20px;
+   padding-right: 20px;
+ }
+ .container-fluid .row-fluid-1 .span4 .navbar .navbar-inner .nav .active a {
+   font-size: 12px;
+   background: #1abc9c;
+   color: #ffffff;
+   text-shadow: none;
+   padding: 11px 10px 11px 10px;
+ }
+ .container-fluid .row-fluid-1 .span4 .navbar .navbar-inner .nav li a {
+   font-size: 12px;
+   color: #ffffff;
+   text-shadow: none;
+ }
+ .container-fluid .row-fluid-1 .span4 .navbar .navbar-inner .nav li a.a-1 {
+   padding: 10px;
+ }
+ .container-fluid .row-fluid .span8 .well.well-1 {
+   border-radius: 0px;
+   background: transparent;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   padding: 0px;
+   border: none;
+ }
+ .container-fluid .row-fluid .span8 .well.well-2 {
+   margin: 0px;
+ }
+ .container-fluid .row-fluid .span4 .well.well-3 {
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   padding: 0px;
+   border-radius: 0px;
+   background: transparent;
+   border: none;
+ }
+ .container-fluid .row-fluid .span4 .well.well-3 select {
+   width: 200px;
+ }
+ .container-fluid .row-fluid .span8 .well.well-1 .row-fluid .span9 p.p-1 {
+   color: #777777;
+   font-size: 13px;
+ }
+ .container-fluid .row-fluid .span8 .well.well-1 .row-fluid .span9 p.p-2 {
+   line-height: 24px;
+ }
+ .container-fluid .row-fluid .span8 .well.well-1 .row-fluid .span9 .row-fluid .span1 .well.well-1 {
+   margin: 5px 0px 0px 0px;
+ }
+ .container-fluid .row-fluid .span8 .well.well-1 .row-fluid .span9 .row-fluid .span1 .well.well-1 .oval {
+   background: #2e9c09;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   margin: 0px;
+   border: none;
+   height: 10px;
+   width: 10px;
+   border-radius: 10px / 10px;
+ }
+ .container-fluid .row-fluid .span8 .row-fluid .span8 .well.well-1 .row-fluid .span3 .well.well-1.well-2 .heading {
+   margin: 0px 0px 10px 0px;
+ }
+ .container-fluid .row-fluid .span8 .row-fluid .span4 .well.well-1.well-2 .heading {
+   margin: 0px 0px 10px 0px;
+ }
+ .container-fluid .row-fluid .span8 .row-fluid .span4 .well.well-1.well-2 .icon.icon-remove-sign {
+   font-size: 18px;
+   height: 18px;
+   width: 18px;
+ }
+ .container-fluid .row-fluid .span8 .row-fluid .span2 .well.well-1 .heading {
+   margin: 0px 0px 10px 0px;
+ }
+ .container-fluid .row-fluid .span8 .row-fluid .span10 .well {
+   background: #f7f7f7;
+   padding: 15px;
+ }
+ .container-fluid .row-fluid .span8 .row-fluid .span10 .well p {
+   font-size: 13px;
+   color: #555555;
+ }
+ .container-fluid .row-fluid .span4 .well.well-3 p {
+   font-size: 13px;
+ }
+ .container-fluid .row-fluid .span4 .well.well-3 p.p-3 {
+   color: #777777;
+   line-height: 24px;
+ }
+ .container-fluid .row-fluid .span12 .well {
+   border-radius: 0px;
+   background: transparent;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   border: none;
+ }
+ .container-fluid .row-fluid .span12 .well p {
+   font-size: 12px;
+   text-align: center;
+   color: #b2bcc5;
+ }

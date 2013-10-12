@@ -1,0 +1,128 @@
+ body {
+   padding-left: 0;
+   padding-right: 0;
+ }
+ .container-fluid {
+   padding: 30px 20px 0px 20px;
+ }
+ .container-fluid .row-fluid .span8 .well {
+   background: transparent;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   margin: 0px;
+   padding: 0px;
+   border: none;
+ }
+ .container-fluid .row-fluid .span8 .well.well-1 {
+   border-radius: 0px;
+ }
+ .container-fluid .row-fluid .span8 .well.well-1 p {
+   font-size: 12px;
+   font-style: italic;
+   color: #777777;
+   font-family:"helvetica";
+   margin: 5px 0px 10px 0px;
+ }
+ .container-fluid .row-fluid .span4 .row-fluid .span10 p {
+   font-weight: bold;
+   font-size: 13px;
+ }
+ .container-fluid .row-fluid .span4 .row-fluid .span2 .icon.icon-question-sign {
+   font-size: 16px;
+   color: #bfc9ca;
+   height: 16px;
+   width: 16px;
+ }
+ .container-fluid .row-fluid .span4 .navbar {
+   height: 42px;
+ }
+ .container-fluid .row-fluid .span4 .navbar .navbar-inner {
+   background: #ffffff;
+   background-image: -moz-linear-gradient(270deg, #ffffff 0%, #f2f2f2 100%);
+   background-image: -webkit-linear-gradient(270deg, #ffffff 0%, #f2f2f2 100%);
+   background-image: -o-linear-gradient(270deg, #ffffff 0%, #f2f2f2 100%);
+   background-image: linear-gradient(180deg, #ffffff 0%, #f2f2f2 100%);
+   padding: 0px 15px 0px 15px;
+   height: 42px;
+   padding-left: 20px;
+   padding-right: 20px;
+ }
+ .container-fluid .row-fluid .span4 .navbar .navbar-inner .nav .active a {
+   font-size: 12px;
+   padding: 10px;
+ }
+ .container-fluid .row-fluid .span4 .navbar .navbar-inner .nav li a {
+   font-size: 12px;
+   padding: 10px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-2 {
+   background: transparent;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   border: none;
+ }
+ .container-fluid .row-fluid .span12 .well.well-3 {
+   border-radius: 0px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-4 {
+   padding: 0px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-5 {
+   margin: 0px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-2.well-3.well-4 .row-fluid .span3 .well.well-2.well-3.well-4.well-5 .row-fluid .span1 .well.well-2.well-3.well-4 p {
+   padding: 3px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-2.well-3.well-4 .row-fluid .span3 .well.well-2.well-3.well-4.well-5 .row-fluid .span7 .well.well-2.well-4.well-5 .btn {
+   background: #1abc9c;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   text-shadow: none;
+   color: #ffffff;
+   border: 1px solid #149f83;
+ }
+ .container-fluid .row-fluid .span12 .well.well-2.well-3.well-4 .row-fluid .span3 .well.well-2.well-3.well-4.well-5 .row-fluid .span7 .btn {
+   background: #1abc9c;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   text-shadow: none;
+   border: 1px solid #149f83;
+ }
+ .container-fluid .row-fluid .span12 .well.well-2.well-3.well-4 .row-fluid .span3 .well.well-2.well-3.well-4.well-5 .row-fluid .span7 .btn.btn-1 {
+   color: #f7f4f4;
+ }
+ .container-fluid .row-fluid .span12 .well.well-2.well-3.well-4 .row-fluid .span3 .well.well-2.well-3.well-4.well-5 .row-fluid .span8 .well .btn {
+   background: #1abc9c;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   text-shadow: none;
+   color: #ffffff;
+   border: 1px solid #149f83;
+ }
+ .container-fluid .row-fluid .span12 .well.well-2.well-3.well-4 .table.table-striped.table-bordered thead tr th {
+   text-align: center;
+   font-size: 12px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-2.well-3.well-4 .table.table-striped.table-bordered tbody tr td {
+   text-align: center;
+   font-size: 12px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-2.well-3.well-4 .table.table-striped.table-bordered tbody tr td .checkbox {
+   font-size: 12px;
+   width: 0px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-2.well-3 p.p-1 {
+   font-size: 12px;
+   text-align: center;
+   color: #b2bcc5;
+ }

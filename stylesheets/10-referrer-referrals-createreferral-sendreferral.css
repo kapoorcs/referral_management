@@ -1,0 +1,135 @@
+ body {
+   padding-left: 0;
+   padding-right: 0;
+ }
+ .container-fluid {
+   padding: 20px 20px 0px 20px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-1 {
+   background: transparent;
+   border-radius: 0px;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+ }
+ .container-fluid .row-fluid .span12 .well {
+   border: none;
+ }
+ .container-fluid .row-fluid .span12 .well.well-2 {
+   padding: 0px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-3 {
+   margin: 0px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-1.well-2 p.p-1 {
+   padding: 3px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-1.well-2 p.p-2 {
+   font-size: 12px;
+   margin: 5px 0px 10px 0px;
+   font-style: italic;
+   color: #777777;
+ }
+ .container-fluid .row-fluid.row-fluid-1 {
+   margin: 0px 0px 20px 0px;
+ }
+ .container-fluid .row-fluid-1 .span12 .well.well-2.well-3.well-4 {
+   background: #34495e;
+ }
+ .container-fluid .row-fluid-1 .span12 .well.well-2.well-3.well-4 .row-fluid .span8 .well.well-1.well-2.well-3 .navbar {
+   margin: 0px;
+   height: 42px;
+ }
+ .container-fluid .row-fluid-1 .span12 .well.well-2.well-3.well-4 .row-fluid .span8 .well.well-1.well-2.well-3 .navbar .navbar-inner {
+   background: #34495e;
+   padding: 0px;
+   border: none;
+   -moz-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0);
+   -webkit-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0);
+   -o-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0);
+   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0);
+   height: 42px;
+   padding-left: 20px;
+   padding-right: 20px;
+ }
+ .container-fluid .row-fluid-1 .span12 .well.well-2.well-3.well-4 .row-fluid .span8 .well.well-1.well-2.well-3 .navbar .navbar-inner .nav li a {
+   text-shadow: 0px 1px 0px rgba(255, 255, 255, 0);
+ }
+ .container-fluid .row-fluid-1 .span12 .well.well-2.well-3.well-4 .row-fluid .span8 .well.well-1.well-2.well-3 .navbar .navbar-inner .nav li a.a-1 {
+   color: #ffffff;
+ }
+ .container-fluid .row-fluid-1 .span12 .well.well-2.well-3.well-4 .row-fluid .span8 .well.well-1.well-2.well-3 .navbar .navbar-inner .nav li a.a-2 {
+   padding: 11px 20px 10px 20px;
+ }
+ .container-fluid .row-fluid-1 .span12 .well.well-2.well-3.well-4 .row-fluid .span8 .well.well-1.well-2.well-3 .navbar .navbar-inner .nav li a.a-3 {
+   background: transparent;
+   -moz-box-shadow: inset 0px 3px 8px 0px rgba(0, 0, 0, 0.121094);
+   -webkit-box-shadow: inset 0px 3px 8px 0px rgba(0, 0, 0, 0.121094);
+   -o-box-shadow: inset 0px 3px 8px 0px rgba(0, 0, 0, 0.121094);
+   box-shadow: inset 0px 3px 8px 0px rgba(0, 0, 0, 0.121094);
+ }
+ .container-fluid .row-fluid-1 .span12 .well.well-2.well-3.well-4 .row-fluid .span8 .well.well-1.well-2.well-3 .navbar .navbar-inner .nav li a.a-4 {
+   background: #1abc9c;
+   border-radius: 3px 0px 0px 3px;
+   padding: 11px 10px 11px 10px;
+ }
+ .container-fluid .row-fluid-1 .span12 .well.well-2.well-3.well-4 .row-fluid .span8 .well.well-1.well-2.well-3 .navbar .navbar-inner .nav li .a-4 .icon.icon-home {
+   color: #ffffff;
+   font-size: 16px;
+   height: 16px;
+   width: 20px;
+ }
+ .container-fluid .row-fluid-1 .span12 .well.well-2.well-3.well-4 .row-fluid .span8 .well.well-1.well-2.well-3 .navbar .navbar-inner .nav .active .a-2.a-3.a-5 {
+   color: #7b9ec1;
+ }
+ .container-fluid .row-fluid-1 .span12 .well.well-2.well-3.well-4 .row-fluid .span4 .well.well-1.well-2.well-3 .row-fluid .span10 .well.well-1.well-2.well-3 p {
+   font-weight: bold;
+   font-size: 13px;
+   padding: 10px 0px 0px 0px;
+   margin: 0px;
+   color: #1abc9c;
+ }
+ .container-fluid .row-fluid-1 .span12 .well.well-2.well-3.well-4 .row-fluid .span4 .well.well-1.well-2.well-3 .row-fluid .span2 .well.well-1.well-2.well-3 .icon.icon-question-sign {
+   font-size: 16px;
+   margin: 10px 0px 0px 0px;
+   color: #ffffff;
+   height: 16px;
+   width: 16px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-1.well-2 .heading {
+   color: #34495e;
+ }
+ .container-fluid .row-fluid .span12 .well.well-5 {
+   background: #edeff1;
+ }
+ .container-fluid .row-fluid .span12 .well.well-5 .table.table-striped.table-bordered thead tr th {
+   text-align: center;
+   font-size: 12px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-5 .table.table-striped.table-bordered tbody tr td {
+   font-size: 12px;
+   text-align: center;
+ }
+ .container-fluid .row-fluid .span12 .well.well-5 p {
+   color: #777777;
+   font-size: 13px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-5 .row-fluid .span12 .well.well-1 {
+   padding: 20px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-5 .row-fluid .span5 .row-fluid .span6 .well.well-1.well-2.well-3 .btn {
+   background: #1abc9c;
+   color: #ffffff;
+   text-shadow: 0px 1px 1px rgba(255, 255, 255, 0);
+   font-weight: bold;
+   height: 35px;
+   width: 120px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-1 p.p-3 {
+   font-size: 12px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-1 p.p-4 {
+   text-align: center;
+   color: #b2bcc5;
+ }

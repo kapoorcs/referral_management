@@ -1,0 +1,145 @@
+ body {
+   padding-left: 0;
+   padding-right: 0;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid.row-fluid-1 {
+   margin: 10px 0px 0px 0px;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid-1 .span9 .well {
+   background: transparent;
+   border-radius: 0px;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   margin: 0px;
+   border: none;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid-1 .span9 .well p {
+   font-family:"helvetica";
+   font-size: 12px;
+   font-style: italic;
+   color: #777777;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid-1 .span3 .well {
+   background: transparent;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   margin: 0px;
+   border-radius: 0px;
+   border: none;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid-1 .span3 .well .icon.icon-question-sign {
+   font-size: 16px;
+   margin: 15px 0px 0px 0px;
+   color: #bfc9ca;
+   height: 16px;
+   width: 16px;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well {
+   border: none;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-1 {
+   background: #edeff1;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-2 {
+   margin: 0px;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-3 {
+   background: transparent;
+   padding: 0px;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-4 {
+   border-radius: 0px;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-1.well-2 .heading {
+   margin: 10px 0px 20px 0px;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-1.well-2 .row-fluid .span1 .well.well-3.well-4 .icon.icon-user {
+   font-size: 16px;
+   color: #bfc9ca;
+   margin: 8px 0px 0px 0px;
+   height: 16px;
+   width: 16px;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-1.well-2 .row-fluid .span11 .well.well-2.well-3 input.textinput {
+   padding: 10px;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   border: none;
+   color: #b2bcc5;
+   font-size: 13px;
+   height: 40px;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-1.well-2 .row-fluid .span1 .well.well-3.well-4 .icon.icon-lock {
+   margin: 8px 0px 0px 0px;
+   color: #bfc9ca;
+   font-size: 16px;
+   height: 16px;
+   width: 16px;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-1.well-2 .row-fluid .span6 .well.well-3.well-4 .checkbox {
+   color: #777777;
+   font-size: 13px;
+   font-weight: bold;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-1.well-2 .row-fluid .span6 .well.well-3.well-4 p {
+   color: #b2bcc5;
+   font-size: 13px;
+   font-weight: bold;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-1.well-2 .row-fluid .span11 .well.well-2.well-3.well-4 .btn {
+   text-shadow: 0px 1px 1px rgba(255, 255, 255, 0);
+   font-size: 16px;
+   color: #ffffff;
+   height: 40px;
+   width: 280px;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-1.well-2 .row-fluid .span11 .well.well-2.well-3.well-4 .btn.btn-1 {
+   background: #1abc9c;
+   border: 1px solid #16aa8c;
+   padding: 8px 12px 8px 12px;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-1.well-2 .row-fluid .span1 .icon.icon-user {
+   font-size: 16px;
+   color: #bfc9ca;
+   margin: 8px 0px 0px 0px;
+   height: 16px;
+   width: 16px;
+ }
+ .container-fluid .row-fluid .span12 .row-fluid .span6 .well.well-1.well-2 .row-fluid .span11 .well.well-2.well-3.well-4 .btn.btn-2 {
+   background: #34495e;
+   padding: 10px 12px 10px 12px;
+   -moz-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.199219), 0px 1px 2px 0px rgba(0, 0, 0, 0.046875);
+   -webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.199219), 0px 1px 2px 0px rgba(0, 0, 0, 0.046875);
+   -o-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.199219), 0px 1px 2px 0px rgba(0, 0, 0, 0.046875);
+   box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.199219), 0px 1px 2px 0px rgba(0, 0, 0, 0.046875);
+   border: 1px solid #2f4357;
+ }
+ .container-fluid .row-fluid .span12 .well.well-5 {
+   background: transparent;
+   -moz-box-shadow: none;
+   -webkit-box-shadow: none;
+   -o-box-shadow: none;
+   box-shadow: none;
+   border: none;
+ }
+ .container-fluid .row-fluid .span12 .well.well-6 {
+   border-radius: 0px;
+   margin: 0px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-5 p {
+   font-size: 12px;
+ }
+ .container-fluid .row-fluid .span12 .well.well-5 p.p-1 {
+   text-align: center;
+   color: #b2bcc5;
+ }
